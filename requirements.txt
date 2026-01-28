@@ -1,0 +1,8 @@
+streamlit
+pandas
+googlesearch-python
+selenium
+webdriver-manager
+networkx
+pyvis
+duckduckgo-search
