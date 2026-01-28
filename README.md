@@ -45,4 +45,4 @@ Bu araç **sadece eğitim ve etik güvenlik testleri** amacıyla geliştirilmiş
 5.  Pull Request açın.
 
 ---
-Developed with ❤️ by [Mehmet Karagülle]
+Developed with ❤️ by Mehmet Karagülle
