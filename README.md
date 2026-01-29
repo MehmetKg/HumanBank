@@ -44,5 +44,8 @@ Bu araç **sadece eğitim ve etik güvenlik testleri** amacıyla geliştirilmiş
 4.  Branch'i Push'layın (`git push origin feature/YeniOzellik`).
 5.  Pull Request açın.
 
+##screeshots/
+https://github.com/MehmetKg/HumanBank/blob/main/IMG-20260128-WA0003(1).jpg
+
 ---
 Developed with ❤️ by Mehmet Karagülle
